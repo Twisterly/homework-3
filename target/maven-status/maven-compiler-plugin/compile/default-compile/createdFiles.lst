@@ -1,0 +1,9 @@
+masha\cha\dao\PersonDao.class
+masha\cha\pojos\Person$PersonBuilder.class
+masha\cha\dao\PersonDaoImpl.class
+masha\cha\DataConfig.class
+masha\cha\loader\PersonLoader.class
+masha\cha\MysqlSessionFactory.class
+masha\cha\pojos\Person.class
+masha\cha\util\HibernateUtil.class
+masha\cha\MysqlJdbcDataSource.class
